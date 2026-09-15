@@ -1,0 +1,25 @@
+* {
+  background-color: rgb(156, 238, 89);
+}
+link:active,
+:enabled,
+:hover,
+:valid {
+  color: rgb(153, 153, 153);
+}
+
+table,
+tr,
+td {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(80, 144, 80);
+  border: none;
+}
+
+#belso {
+  padding: 1px;
+  margin: auto;
+  background-color: white;
+  width: 940px;
+}
