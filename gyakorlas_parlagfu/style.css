@@ -3,13 +3,6 @@ body {
   color: black;
 }
 
-a:link,
-a:visited,
-a:hover,
-a:active {
-  color: #999999;
-}
-
 .kulso {
   width: 980px;
   margin: auto;
@@ -26,42 +19,14 @@ a:active {
   border-spacing: 1px;
 }
 
-.fejlec {
-  width: 100%;
-  display: block;
-}
-
-.menu td {
+.menu td,
+a {
   height: 40px;
   background-color: black;
   color: white;
   text-align: center;
   vertical-align: middle;
-}
-
-.menu a {
-  color: white;
   text-decoration: none;
-}
-
-.tartalom {
-  background-color: white;
-  padding: 8px;
-  vertical-align: top;
-}
-
-h1 {
-  font-size: 24px;
-}
-
-p {
-  line-height: 1.4;
-}
-
-.gyomlalas {
-  float: right;
-  margin: 0 5px;
-  border: 1px solid black;
 }
 
 .kep {
